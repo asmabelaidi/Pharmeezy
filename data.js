@@ -241,14 +241,5 @@
       }
 ]
 
-//  const USER = {
-//    username: 'asma',
-//     password: 'belaidi',
-//     fname: 'Asma',
-//     lname: 'Belaidi',
-//     nickname: 'Blue whale',
-//     child_name: 'Laya Bettayeb',
-//     married_to: 'Sami Bettayeb'
-// }
 
 module.exports.users = users
